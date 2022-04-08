@@ -1,0 +1,8 @@
+Given an array of numbers, and a target number. Return all possible combinations of 3 numbers 
+that sum up to the target number. Note: there needs to be AT LEAST and NO MORE than 3 numbers
+
+Example:
+
+a = [1, 2, 3, 4, 5, 6], target = 6
+
+return: 1
